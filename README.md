@@ -7,3 +7,6 @@ I think that a tester's engagement and enthusasm for their work has a great effe
 So I think that testers need special attention to help them stay interested.
 
 And that's what this repository of exercises is for.
+
+##Testing?
+There are plenty of exercises and ideas for motivating people, and I expect that many here will be adapted from existing ideas. However, I want _all_ the exercises we keep in this repository to be relevant to testers and testing, in content, form, audience, aim, or some other facet.
