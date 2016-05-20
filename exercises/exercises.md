@@ -132,3 +132,45 @@ Now with tools
 modelled after Ben Linders' retrospective, described here: http://unscrumhero.blogspot.co.uk/2016/03/a-feel-good-retrospective.html
 
 
+
+
+## The Explainerator ##
+
+#The Explainerator
+
+What ideas / situations (?are commonly misunderstood?) do you find it hard to explain?
+
+Share
+What's the simple idea you're trying to get across?
+What are common misconceptions?
+What models might lead to those misinterpretations?
+Can you write three short sentences 
+*	hint for form ie I adverb verb adjective noun, you adverb verb adjective noun, we adverb verb adjective noun / given then when / Problem - approach - caveat
+Arrive at a picture or metaphor that might help
+Do these help with the wrong prior?
+
+
+## Sloganeering ##
+
+What's an important truth, to you, about your work / job / situation
+-	doesn't have to be, maybe shouldn't be, a fundamental truth or axiom. But important to you.
+
+Express it in a couple of sentences.
+Remove adjecitves and adverbs where possible.
+Use a thesaurus to find alterntive vocabulary
+Use a rhyming dictionary to find possible rhymes
+Arrive at a rhyming slogan
+
+## My Music ##
+
+What music do you use to get yourself enthusiastic? To continue concentrating? To cool down?
+
+Share.
+Make a playlist.
+Consider when you might use it in testing, and when you might re-use it, and how it might change for context
+
+## Blocked Brain ##
+
+Play missing letter / changed vowel /  changed consonant / spoonerism / pun with a testing cliche to surprise yourself.
+
+Title from a van with "Blocked Drain" on the side
