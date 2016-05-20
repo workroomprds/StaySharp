@@ -10,3 +10,6 @@ And that's what this repository of exercises is for.
 
 ##Testing?
 There are plenty of exercises and ideas for motivating people, and I expect that many here will be adapted from existing ideas. However, I want _all_ the exercises we keep in this repository to be relevant to testers and testing, in content, form, audience, aim, or some other facet.
+
+##Exercises?
+The exercises will be primarily *social* exercises. A few may need software, or devices – and a few may need props – but most won't. I expect that most exercises will take 20 minutes or less, most will be do-able in small groups or perhaps on one's own, most could be done more than once. I'm leaning heavily on Keith Johnstone's exercises, Jerry Weinberg's insights, Sharon Bowman's teaching approaches, and perhaps a bit of Dan Pink, Daniel Arielly, and Malcolm Gladwell. I don't expect that the exercises in this workshop will be similar to my BlackBox puzzles.
