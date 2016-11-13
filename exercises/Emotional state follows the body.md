@@ -7,8 +7,14 @@ influence your emotions with physical actions
 ### Activity
 
 Talk group through these, collectively. Ask people to gauge their emotional reaction. Ask people to look at each other.
+
+
 "Allow your emotion to follow your motion – no need to resist." 
+
+
 "It's "fake" as in not spontaneous, but your hormonal response is real."
+
+
 
 
 Physical activities to include:
@@ -38,6 +44,8 @@ Explore this for a moment with your group. Move your body, listen to your emotio
 ### Testing relevance: 
 
 Emphasise role of emotions in alertness.
+
+
 Actions and experiments for use in work.
 
 ### Duration:
@@ -65,4 +73,6 @@ Actions one can take to change one's emotions
 ### Used
 
 New Voice Media 27/10/2016, James
+
+
 EuroSTAR16 02/11/2016, James
