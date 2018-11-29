@@ -2,7 +2,7 @@
 Exercises for workshop on keeping testers interested
 
 ## EuroSTAR 2016
-I've not yet transcribed the pdfs, nor updated my exercises. However, you'll find pictures of the flipcharts and a pdf of my teaching notes at the site I shared in the workshop.
+I've not yet transcribed the pdfs, nor updated my exercises. However, you'll find pictures of the flipcharts and a pdf of my teaching notes at [staysharp.workroomprds.com](http://staysharp.workroomprds.com).
 
 ## Testers?
 I think that a tester's engagement and enthusasm for their work has a great effect on how well they work. I think that effect is more pronounced for testers than for some other roles in development. I think that testing has the potential to be exceptionally boring, and that dull testing excludes interested testers, leading to a terrible cycle of ennui that is a drag on the soul of a team.
